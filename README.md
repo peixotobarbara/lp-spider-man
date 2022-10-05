@@ -25,5 +25,5 @@
 <br><br>
 <hr>
 <p align="center">
-  Desenvolvido por <a href="https://github.com/barbarapxto" target="_blank">Bárbara Peixoto</a>
+  Desenvolvido por <a href="https://github.com/peixotobarbara" target="_blank">Bárbara Peixoto</a>
 </p>
